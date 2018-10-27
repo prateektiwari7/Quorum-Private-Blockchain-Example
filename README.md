@@ -1,0 +1,2 @@
+mkdir workspace
+cd workspace
