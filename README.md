@@ -36,7 +36,7 @@ Steps are <br/>
 
 16. truffle(nodeseven)> SimpleStorage.deployed().then(function(instance) { return instance.get(); })
 
-17. output as : { [String: '42'] s: 1, e: 1, c: [ 42 ] }
+17. output as : { [String: '42'] s: 1, e: 1, c: [ 42 ] } ;
 
 18. Due to this command {privateFor: ["ROAZBWtSacxXQrOe3FGAqJDyJjFePR5ce4TSIzmJ0Bc="]}), main contract is showing permission to node seven only see the log as "42" output.
 
