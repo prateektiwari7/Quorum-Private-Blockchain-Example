@@ -40,5 +40,3 @@ Steps are <br/>
 
 18. Due to this command {privateFor: ["ROAZBWtSacxXQrOe3FGAqJDyJjFePR5ce4TSIzmJ0Bc="]}), main contract is showing permission to node seven only see the log as "42" output.
 
-
-
