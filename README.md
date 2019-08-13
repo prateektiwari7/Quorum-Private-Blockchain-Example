@@ -22,7 +22,7 @@ Steps are <br/>
 
 10. Prateek-Tiwari:quorum-examples yudiz$truffle console
 
-11. truffle(development)> SimpleStorage.deployed().then(function(instance) { return instance.get(); }) <br/>
+11. truffle(development) > SimpleStorage.deployed().then(function(instance) { return instance.get(); }) <br/>
 
  output will as { [String: '42'] s: 1, e: 1, c: [ 42 ] }
 
